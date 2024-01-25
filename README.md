@@ -16,4 +16,17 @@ Before running this script, make sure you have:
 1. Download the installation script:
 
    ```bash
-   wget https://link-to-your-script
+   wget https://github.com/iwewe/orangeHRIS-Ubuntu/blob/main/install_orangehrm.sh
+   ...
+2. Make the script executeable
+   ```bash
+   chmod +x install_orangehrm.sh
+   ...
+4. Run the script:
+   ```bash
+   ./install_orangehrm.sh
+   ...
+5. Follow the on-screen instructions.
+
+
+
